@@ -1,0 +1,13 @@
+{
+  "snowmine": {
+    "name": "SnowMine Client",
+    "image": "https://example.com/snowmine_image.png",
+    "short_description": "Security testing client for testing server security and resilience.",
+    "long_description": "SnowMine Client is designed for authorized security testing of Minecraft servers. If you have recently created a server and want to evaluate how strong it is against attacks, you can use this client to perform controlled security tests and identify potential weaknesses in your server configuration and defenses. We strongly recommend using SnowMine Client only on servers that you own or on servers where you have explicit permission from the owner to perform security testing. Unauthorized testing or attacks against servers may violate laws, server rules, or the owner's terms of service. You are responsible for all actions performed using this client, and the developers of SnowMine Client assume no responsibility for misuse, unauthorized testing, damage, data loss, or any consequences resulting from its use.",
+    "java_requare": "17",
+    "download_link": "",
+    "update": "1",
+    "update_requare": "false",
+    "creator": "Sayyed"
+  }
+}
